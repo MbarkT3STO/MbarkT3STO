@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MbarkT3STO
-- 👀 I’m a .NET & .NET Core specialist, interested in Microsoft technologies
+- 👀 I’m a .NET specialist, interested in Microsoft technologies
 
 <!---
 MbarkT3STO/MbarkT3STO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
