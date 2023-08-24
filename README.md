@@ -5,7 +5,7 @@ I’m a passionated .NET/C# developer, who likes to play around with C# and see 
 
 * 🌍  I'm based in Morocco
 
-* [![Spotify](https://novatorem-rouge-eight.vercel.app/api/spotify)](https://open.spotify.com/user/j0noy3yltsj5mb4ph5msffmz4)
+[![spotify-github-profile](https://novatorem-rouge-eight.vercel.app/api/view?uid=j0noy3yltsj5mb4ph5msffmz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 <a href="https://www.x.com/mbarkt3sto" target="_blank" rel="noreferrer"><img
