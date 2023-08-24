@@ -5,6 +5,9 @@ I’m a passionated .NET/C# developer, who likes to play around with C# and see 
 
 * 🌍  I'm based in Morocco
 
+* [![Spotify](https://novatorem-rouge-eight.vercel.app/api/spotify)](https://open.spotify.com/user/j0noy3yltsj5mb4ph5msffmz4)
+
+
 <a href="https://www.x.com/mbarkt3sto" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mbarkt3sto?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
