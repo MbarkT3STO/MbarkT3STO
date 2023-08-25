@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/mbarkt3sto" target="blank"><img src="https://img.shields.io/twitter/follow/mbarkt3sto?logo=twitter&style=for-the-badge" alt="mbarkt3sto" /></a> </p>
 
-- 📫 How to reach me **MBARK@T3stoOrg.onmicrosoft.com**
-
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [DDD: Entity vs. Value Object vs. Aggregate Root](https://mbarkt3sto.hashnode.dev/ddd-entity-vs-value-object-vs-aggregate-root)
