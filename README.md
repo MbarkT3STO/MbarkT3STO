@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm M B A R K</h1>
 <h3 align="center">A passionate .NET/C# developer, who likes to play around with C# and see how much I can do with it.</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mbarkt3sto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbarkt3sto&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <p align="left"> <a href="https://twitter.com/mbarkt3sto" target="blank"><img src="https://img.shields.io/twitter/follow/mbarkt3sto?logo=twitter&style=for-the-badge" alt="mbarkt3sto" /></a> </p>
