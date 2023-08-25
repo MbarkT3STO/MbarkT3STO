@@ -22,8 +22,7 @@
 <a href="https://instagram.com/mbarkt3sto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mbarkt3sto" height="30" width="40" /></a>
 <a href="https://hashnode.com/@mbarkt3sto" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="@mbarkt3sto" height="40" width="40" /></a>
 <a href="https://medium.com/@m-b-a-r-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@m-b-a-r-k" height="30" width="40" /></a>
-<a href="https://discord.com/users/.mbark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt=".mbark" height="30" width="40" /></a>
-<a href="/https://mbarkt3sto.hashnode.dev/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://mbarkt3sto.hashnode.dev/rss.xml" height="30" width="40" /></a>
+<a href="https://discord.com/users/.mbark" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt=".mbark" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
