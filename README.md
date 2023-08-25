@@ -10,7 +10,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [DDD: Entity vs. Value Object vs. Aggregate Root](https://mbarkt3sto.hashnode.dev/ddd-entity-vs-value-object-vs-aggregate-root)
+- [DDD: Domain Services &amp; Application Services](https://mbarkt3sto.hashnode.dev/ddd-domain-services-application-services)
+- [EF Core and PostgreSQL: Working with Arrays](https://mbarkt3sto.hashnode.dev/ef-core-and-postgresql-working-with-arrays)
+- [EF Core and PostgreSQL: Check Constraints](https://mbarkt3sto.hashnode.dev/ef-core-and-postgresql-check-constraints)
+- [EF Core and PostgreSQL: Working with JSON Data](https://mbarkt3sto.hashnode.dev/ef-core-and-postgresql-working-with-json-data)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
