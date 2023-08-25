@@ -26,7 +26,7 @@
 <a href="https://twitter.com/mbarkt3sto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbarkt3sto" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mbarkt3sto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbarkt3sto" height="30" width="40" /></a>
 <a href="https://discord.com/users/.mbark" target="blank"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt=".mbark" height="30" width="40" /></a>
-<a href="mailto:MBARK@T3stoOrg.onmicrosoft.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" alt="MBARK@T3stoOrg.onmicrosoft.com" height="30" width="60" /></a>
+<a href="mailto:Contact@MbarkT3STO.onmicrosoft.com" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" alt="Contact@MbarkT3STO.onmicrosoft.com" height="30" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
