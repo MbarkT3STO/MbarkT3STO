@@ -1,16 +1,11 @@
-[![spotify-github-profile](https://novatorem-rouge-eight.vercel.app/api/view?uid=j0noy3yltsj5mb4ph5msffmz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-
 <h1 align="center">Hi 👋, I'm M B A R K</h1>
 <h3 align="center">A passionate .NET/C# developer, who likes to play around with C# and see how much I can do with it.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbarkt3sto&label=Profile%20views&color=0e75b6&style=flat" alt="mbarkt3sto" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbarkt3sto" alt="mbarkt3sto" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mbarkt3sto" target="blank"><img src="https://img.shields.io/twitter/follow/mbarkt3sto?logo=twitter&style=for-the-badge" alt="mbarkt3sto" /></a> </p>
 
-- 📫 How to reach me **mbark@T3STO**
+- 📫 How to reach me **MBARK@T3stoOrg.onmicrosoft.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -36,3 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mbarkt3sto&" alt="mbarkt3sto" /></p>
 
+[![spotify-github-profile](https://novatorem-rouge-eight.vercel.app/api/view?uid=j0noy3yltsj5mb4ph5msffmz4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
