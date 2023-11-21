@@ -8,7 +8,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [The Result Pattern Design Pattern](https://mbarkt3sto.hashnode.dev/the-result-pattern-design-pattern)
+- [The Result Design Pattern](https://mbarkt3sto.hashnode.dev/the-result-design-pattern)
 - [DDD: Application Services](https://mbarkt3sto.hashnode.dev/ddd-application-services)
 - [DDD: Entity vs. Value Object vs. Aggregate Root](https://mbarkt3sto.hashnode.dev/ddd-entity-vs-value-object-vs-aggregate-root)
 - [DDD: Domain Services &amp; Application Services](https://mbarkt3sto.hashnode.dev/ddd-domain-services-application-services)
