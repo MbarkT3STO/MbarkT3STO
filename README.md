@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ: Implementing a Deduplication Mechanism for Messages in C#](https://mbarkt3sto.hashnode.dev/rabbitmq-implementing-a-deduplication-mechanism-for-messages-in-c)
 - [The Result Design Pattern](https://mbarkt3sto.hashnode.dev/the-result-design-pattern)
 - [DDD: Application Services](https://mbarkt3sto.hashnode.dev/ddd-application-services)
 - [DDD: Entity vs. Value Object vs. Aggregate Root](https://mbarkt3sto.hashnode.dev/ddd-entity-vs-value-object-vs-aggregate-root)
 - [DDD: Domain Services &amp; Application Services](https://mbarkt3sto.hashnode.dev/ddd-domain-services-application-services)
-- [EF Core and PostgreSQL: Working with Arrays](https://mbarkt3sto.hashnode.dev/ef-core-and-postgresql-working-with-arrays)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
