@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [MediatR: A Noob Guide to IPipelineBehavior](https://mbarkt3sto.hashnode.dev/mediatr-a-noob-guide-to-ipipelinebehavior)
 - [Microservices Architecture: The Outbox Pattern](https://mbarkt3sto.hashnode.dev/microservices-architecture-the-outbox-pattern)
 - [Understanding Database Normal Forms](https://mbarkt3sto.hashnode.dev/understanding-database-normal-forms)
 - [PostgreSQL: Functions](https://mbarkt3sto.hashnode.dev/postgresql-functions)
 - [RabbitMQ: Implementing a Deduplication Mechanism for Messages in C#](https://mbarkt3sto.hashnode.dev/rabbitmq-implementing-a-deduplication-mechanism-for-messages-in-c)
-- [The Result Design Pattern](https://mbarkt3sto.hashnode.dev/the-result-design-pattern)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
