@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Networking: IP Classes](https://mbarkt3sto.hashnode.dev/networking-ip-classes)
 - [Networking: TCP/IP Model](https://mbarkt3sto.hashnode.dev/networking-tcpip-model)
 - [Networking: Top Protocols](https://mbarkt3sto.hashnode.dev/networking-top-protocols)
 - [Networking: OSI Model](https://mbarkt3sto.hashnode.dev/networking-osi-model)
 - [Networking: Topologies](https://mbarkt3sto.hashnode.dev/networking-topologies)
-- [Creating a Reverse Proxy Server with YARP](https://mbarkt3sto.hashnode.dev/creating-a-reverse-proxy-server-with-yarp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
