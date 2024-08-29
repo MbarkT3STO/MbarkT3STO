@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Power BI: Measures](https://mbarkt3sto.hashnode.dev/power-bi-measures)
 - [ASP.NET Core: Implementing Caching with SQL Server](https://mbarkt3sto.hashnode.dev/aspnet-core-implementing-caching-with-sql-server)
 - [Networking: IP Classes](https://mbarkt3sto.hashnode.dev/networking-ip-classes)
 - [Networking: TCP/IP Model](https://mbarkt3sto.hashnode.dev/networking-tcpip-model)
 - [Networking: Top Protocols](https://mbarkt3sto.hashnode.dev/networking-top-protocols)
-- [Networking: OSI Model](https://mbarkt3sto.hashnode.dev/networking-osi-model)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
