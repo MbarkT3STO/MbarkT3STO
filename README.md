@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Power BI DAX: LOOKUPVALUE Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-lookupvalue-function)
 - [Power BI DAX: IF Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-if-function)
 - [Power BI DAX: CALCULATE Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-calculate-function)
 - [Power BI: Calculated Columns](https://mbarkt3sto.hashnode.dev/power-bi-calculated-columns)
 - [Power BI: Measures](https://mbarkt3sto.hashnode.dev/power-bi-measures)
-- [ASP.NET Core: Implementing Caching with SQL Server](https://mbarkt3sto.hashnode.dev/aspnet-core-implementing-caching-with-sql-server)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
