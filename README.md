@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Power BI DAX: SUMMARIZE Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-summarize-function)
 - [Power BI DAX: Variables](https://mbarkt3sto.hashnode.dev/power-bi-dax-variables)
 - [Power BI DAX: SWITCH Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-switch-function)
 - [Power BI DAX: SUMX, AVERAGEX, and COUNTX Functions](https://mbarkt3sto.hashnode.dev/power-bi-dax-sumx-averagex-and-countx-functions)
 - [Power BI DAX: LOOKUPVALUE Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-lookupvalue-function)
-- [Power BI DAX: IF Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-if-function)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
