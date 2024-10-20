@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Svelte: Animations and Transitions](https://mbarkt3sto.hashnode.dev/svelte-animations-and-transitions)
 - [Svelte: State Management with Stores](https://mbarkt3sto.hashnode.dev/svelte-state-management-with-stores)
 - [Svelte: Routing](https://mbarkt3sto.hashnode.dev/svelte-routing)
 - [Svelte: Working with APIs](https://mbarkt3sto.hashnode.dev/svelte-working-with-apis)
 - [Svelte: Styling](https://mbarkt3sto.hashnode.dev/svelte-styling)
-- [Svelte: Handling Forms and User Input](https://mbarkt3sto.hashnode.dev/svelte-handling-forms-and-user-input)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
