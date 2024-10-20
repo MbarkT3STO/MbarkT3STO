@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Svelte: State Management](https://mbarkt3sto.hashnode.dev/svelte-state-management)
+- [Svelte: Understanding the Components](https://mbarkt3sto.hashnode.dev/svelte-understanding-the-components)
 - [Svelte: Setting Up the Project](https://mbarkt3sto.hashnode.dev/svelte-setting-up-the-project)
 - [Svelte: Introduction](https://mbarkt3sto.hashnode.dev/svelte-introduction)
 - [Power BI: Decomposition Tree Visual](https://mbarkt3sto.hashnode.dev/power-bi-decomposition-tree-visual)
-- [Power BI: TreeMap Visual](https://mbarkt3sto.hashnode.dev/power-bi-treemap-visual)
-- [Power BI DAX: SUMMARIZE Function](https://mbarkt3sto.hashnode.dev/power-bi-dax-summarize-function)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
