@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Svelte: Advanced State Management with Stores](https://mbarkt3sto.hashnode.dev/svelte-advanced-state-management-with-stores)
-- [Svelte: Server-Side Rendering with SvelteKit](https://mbarkt3sto.hashnode.dev/svelte-server-side-rendering-with-sveltekit)
-- [Svelte: Animations and Transitions](https://mbarkt3sto.hashnode.dev/svelte-animations-and-transitions)
-- [Svelte: State Management with Stores](https://mbarkt3sto.hashnode.dev/svelte-state-management-with-stores)
-- [Svelte: Routing](https://mbarkt3sto.hashnode.dev/svelte-routing)
+- [EF Core: HasConversion — Simplifying Data Type Mapping](https://medium.com/@M-B-A-R-K/ef-core-hasconversion-simplifying-data-type-mapping-75f6a8e4b916?source=rss-7341884b012b------2)
+- [EF Core: Compiled Queries](https://medium.com/@M-B-A-R-K/ef-core-compiled-queries-aea9f98c1d17?source=rss-7341884b012b------2)
+- [Understanding the IOptions&lt;T&gt; in ASP.NET Core](https://medium.com/@M-B-A-R-K/understanding-the-ioptions-t-in-asp-net-core-5ecb25aebbd2?source=rss-7341884b012b------2)
+- [What is CORS in ASP.NET Core?](https://medium.com/@M-B-A-R-K/what-is-cors-in-asp-net-core-85f4903c9d43?source=rss-7341884b012b------2)
+- [What are Expression Trees in C#?](https://medium.com/@M-B-A-R-K/what-are-expression-trees-in-c-8e5e2a0c08a6?source=rss-7341884b012b------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
