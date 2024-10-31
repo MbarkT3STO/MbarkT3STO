@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Svelte: Dealing with ASP.NET Core API](https://mbarkt3sto.hashnode.dev/svelte-dealing-with-aspnet-core-api)
-- [Svelte: Creating Reusable Components and Libraries](https://mbarkt3sto.hashnode.dev/svelte-creating-reusable-components-and-libraries)
-- [Svelte: Advanced State Management with Stores](https://mbarkt3sto.hashnode.dev/svelte-advanced-state-management-with-stores)
-- [Svelte: Server-Side Rendering with SvelteKit](https://mbarkt3sto.hashnode.dev/svelte-server-side-rendering-with-sveltekit)
-- [Svelte: Animations and Transitions](https://mbarkt3sto.hashnode.dev/svelte-animations-and-transitions)
+- [Express.js: Implementing Authentication and Authorization](https://mbarkt3sto.hashnode.dev/expressjs-implementing-authentication-and-authorization)
+- [Express.js: Error Handling in Express Applications](https://mbarkt3sto.hashnode.dev/expressjs-error-handling-in-express-applications)
+- [Express.js: Using JSON and URL-encoded Data](https://mbarkt3sto.hashnode.dev/expressjs-using-json-and-url-encoded-data)
+- [Express.js: Working with Query Parameters and URL Parameters](https://mbarkt3sto.hashnode.dev/expressjs-working-with-query-parameters-and-url-parameters)
+- [Express.js: Advanced Routing Techniques](https://mbarkt3sto.hashnode.dev/expressjs-advanced-routing-techniques)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
