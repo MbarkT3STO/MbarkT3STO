@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Express.js: Implementing Authentication and Authorization](https://mbarkt3sto.hashnode.dev/expressjs-implementing-authentication-and-authorization)
-- [Express.js: Error Handling in Express Applications](https://mbarkt3sto.hashnode.dev/expressjs-error-handling-in-express-applications)
-- [Express.js: Using JSON and URL-encoded Data](https://mbarkt3sto.hashnode.dev/expressjs-using-json-and-url-encoded-data)
-- [Express.js: Working with Query Parameters and URL Parameters](https://mbarkt3sto.hashnode.dev/expressjs-working-with-query-parameters-and-url-parameters)
-- [Express.js: Advanced Routing Techniques](https://mbarkt3sto.hashnode.dev/expressjs-advanced-routing-techniques)
+- [Express.js: CORS and Cross-Origin Resource Sharing](https://mbarkt3sto.hashnode.dev/expressjs-cors-and-cross-origin-resource-sharing)
+- [Express.js: Serving Static Files and Assets](https://mbarkt3sto.hashnode.dev/expressjs-serving-static-files-and-assets)
+- [Express.js: Using Templating Engines &lpar;EJS, Handlebars&rpar;](https://mbarkt3sto.hashnode.dev/expressjs-using-templating-engines-ejs-handlebars)
+- [Express.js: Building a RESTful API](https://mbarkt3sto.hashnode.dev/expressjs-building-a-restful-api)
+- [Express.js: Connecting to a Database](https://mbarkt3sto.hashnode.dev/expressjs-connecting-to-a-database)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
