@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server: Table Partitioning Technique](https://mbarkt3sto.hashnode.dev/sql-server-table-partitioning-technique)
 - [Prisma ORM: Setting Up with an Express.js Project and PostgreSQL](https://mbarkt3sto.hashnode.dev/prisma-orm-setting-up-with-an-expressjs-project-and-postgresql)
 - [Express.js: CORS and Cross-Origin Resource Sharing](https://mbarkt3sto.hashnode.dev/expressjs-cors-and-cross-origin-resource-sharing)
 - [Express.js: Serving Static Files and Assets](https://mbarkt3sto.hashnode.dev/expressjs-serving-static-files-and-assets)
 - [Express.js: Using Templating Engines &lpar;EJS, Handlebars&rpar;](https://mbarkt3sto.hashnode.dev/expressjs-using-templating-engines-ejs-handlebars)
-- [Express.js: Building a RESTful API](https://mbarkt3sto.hashnode.dev/expressjs-building-a-restful-api)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
