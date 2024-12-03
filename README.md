@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Scrum Artifacts: Product Backlog, Sprint Backlog, Increment](https://mbarkt3sto.hashnode.dev/scrum-artifacts-product-backlog-sprint-backlog-increment)
 - [Agile Frameworks: An Overview &lpar;Scrum, Kanban, XP, etc.&rpar;](https://mbarkt3sto.hashnode.dev/agile-frameworks-an-overview-scrum-kanban-xp-etc)
 - [Agile: Comparing with Traditional Waterfall Model](https://mbarkt3sto.hashnode.dev/agile-comparing-with-traditional-waterfall-model)
 - [Agile: Principles and Values](https://mbarkt3sto.hashnode.dev/agile-principles-and-values)
 - [Agile: What is Agile and Why Use It?](https://mbarkt3sto.hashnode.dev/agile-what-is-agile-and-why-use-it)
-- [SQL Server: Table Partitioning Technique](https://mbarkt3sto.hashnode.dev/sql-server-table-partitioning-technique)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
