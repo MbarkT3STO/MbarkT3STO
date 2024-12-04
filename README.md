@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Scrum Artifacts: Product Backlog, Sprint Backlog, Increment](https://mbarkt3sto.hashnode.dev/scrum-artifacts-product-backlog-sprint-backlog-increment)
-- [Agile Frameworks: An Overview &lpar;Scrum, Kanban, XP, etc.&rpar;](https://mbarkt3sto.hashnode.dev/agile-frameworks-an-overview-scrum-kanban-xp-etc)
+- [Scrum: Scaling Scrum](https://mbarkt3sto.hashnode.dev/scrum-scaling-scrum)
+- [Scrum: Burndown and Burnup Charts](https://mbarkt3sto.hashnode.dev/scrum-burndown-and-burnup-charts)
+- [Scrum: Scrum Artifacts](https://mbarkt3sto.hashnode.dev/agile-scrum-artifacts)
+- [Agile: Agile Frameworks](https://mbarkt3sto.hashnode.dev/agile-frameworks-an-overview-scrum-kanban-xp-etc)
 - [Agile: Comparing with Traditional Waterfall Model](https://mbarkt3sto.hashnode.dev/agile-comparing-with-traditional-waterfall-model)
-- [Agile: Principles and Values](https://mbarkt3sto.hashnode.dev/agile-principles-and-values)
-- [Agile: What is Agile and Why Use It?](https://mbarkt3sto.hashnode.dev/agile-what-is-agile-and-why-use-it)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
