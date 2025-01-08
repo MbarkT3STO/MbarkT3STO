@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server: Transparent Data Encryption &lpar;TDE&rpar;](https://mbarkt3sto.hashnode.dev/sql-server-transparent-data-encryption-tde)
 - [Scrum: Scaling Scrum](https://mbarkt3sto.hashnode.dev/scrum-scaling-scrum)
 - [Scrum: Burndown and Burnup Charts](https://mbarkt3sto.hashnode.dev/scrum-burndown-and-burnup-charts)
 - [Scrum: Scrum Artifacts](https://mbarkt3sto.hashnode.dev/agile-scrum-artifacts)
 - [Agile: Agile Frameworks](https://mbarkt3sto.hashnode.dev/agile-frameworks-an-overview-scrum-kanban-xp-etc)
-- [Agile: Comparing with Traditional Waterfall Model](https://mbarkt3sto.hashnode.dev/agile-comparing-with-traditional-waterfall-model)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
