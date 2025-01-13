@@ -8,11 +8,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Kadane&#39;s Algorithm](https://mbarkt3sto.hashnode.dev/kadanes-algorithm)
+- [The Sliding Window Technique](https://mbarkt3sto.hashnode.dev/the-sliding-window-technique)
 - [Two Pointers Technique](https://mbarkt3sto.hashnode.dev/two-pointers-technique)
 - [SQL Server: Database Sharding Technique](https://mbarkt3sto.hashnode.dev/sql-server-database-sharding-technique)
 - [SQL Server: Transparent Data Encryption &lpar;TDE&rpar;](https://mbarkt3sto.hashnode.dev/sql-server-transparent-data-encryption-tde)
-- [Scrum: Scaling Scrum](https://mbarkt3sto.hashnode.dev/scrum-scaling-scrum)
-- [Scrum: Burndown and Burnup Charts](https://mbarkt3sto.hashnode.dev/scrum-burndown-and-burnup-charts)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Blogs:</h3>
