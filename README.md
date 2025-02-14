@@ -63,11 +63,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Cryptography: Vigenère Cipher](https://mbarkt3sto.hashnode.dev/cryptography-vigenere-cipher)
+- [Cryptography: Caesar Cipher](https://mbarkt3sto.hashnode.dev/cryptography-caesar-cipher)
 - [Understanding Volatility in Variables and CPU](https://mbarkt3sto.hashnode.dev/understanding-volatility-in-variables-and-cpu)
 - [Kadane&#39;s Algorithm](https://mbarkt3sto.hashnode.dev/kadanes-algorithm)
 - [The Sliding Window Technique](https://mbarkt3sto.hashnode.dev/the-sliding-window-technique)
-- [Two Pointers Technique](https://mbarkt3sto.hashnode.dev/two-pointers-technique)
-- [SQL Server: Database Sharding Technique](https://mbarkt3sto.hashnode.dev/sql-server-database-sharding-technique)
 <!-- BLOG-POST-LIST:END -->
 
 ###
